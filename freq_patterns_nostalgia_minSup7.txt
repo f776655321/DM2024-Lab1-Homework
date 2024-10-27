@@ -267,8 +267,8 @@ town:5
 everyday:5
 able:5
 married:5
-married	ever:3
 married	later:3
+married	ever:3
 senior:5
 senior	year:3
 senior	high:4
@@ -365,9 +365,9 @@ stay:6
 dances:6
 dances	did:3
 though:6
-though	even:3
 though	by:3
 though	think:3
+though	even:3
 though	get:3
 something:6
 doing:6
@@ -455,8 +455,8 @@ each	favorite:3
 each	other:5
 almost:8
 said:8
-said	favorite:3
 said	if:3
+said	favorite:3
 rock:8
 rock	60:3
 elvis:8
@@ -532,10 +532,10 @@ use:10
 14:10
 14	year:3
 changed:10
+changed	tears:3
 changed	today:3
 changed	today	sad:3
 changed	has:3
-changed	tears:3
 changed	sad:4
 hit:10
 friends:10
@@ -587,14 +587,14 @@ which:11
 which	over:3
 lost:11
 lost	year:3
-lost	us:3
 lost	cry:3
 lost	yesterday:3
+lost	us:3
 lost	will:4
 went:11
-went	such:3
-went	girl:3
 went	got:3
+went	girl:3
+went	such:3
 went	see:3
 here:11
 brother:11
@@ -603,8 +603,8 @@ through:11
 through	playing:3
 through	past:3
 night:11
-night	last:3
 night	high:3
+night	last:3
 nice:11
 older:11
 1963:11
@@ -615,9 +615,9 @@ grew:12
 grew	reeves:3
 people:12
 your:12
-your	us:3
-your	eyes:3
 your	get:3
+your	eyes:3
+your	us:3
 fantastic:12
 forever:12
 forever	cry:3
@@ -642,27 +642,27 @@ their:12
 their	during:3
 sister:12
 age:13
-age	parents:3
 age	died:3
+age	parents:3
 think:13
-think	by:3
 think	early:3
+think	by:3
 rip:13
 while:13
 while	us:4
 last:13
-last	dance:3
 last	or:3
 last	year:3
+last	dance:3
 last	will:4
 10:13
-10	been:3
-10	later:3
 10	year:3
+10	later:3
+10	been:3
 eyes:13
-eyes	them:3
 eyes	brought:3
 eyes	brought	tears:3
+eyes	them:3
 eyes	tears:8
 lyrics:13
 lyrics	today:3
@@ -672,11 +672,11 @@ even	age:3
 even	know:4
 80:13
 later:14
-later	ever:3
-later	been:3
 later	year:3
 later	has:3
 later	since:3
+later	been:3
+later	ever:3
 make:14
 make	cry:3
 make	where:3
@@ -707,9 +707,9 @@ dance:15
 dance	high:3
 dance	has:4
 singer:15
+singer	listened:3
 singer	since:3
 singer	well:3
-singer	listened:3
 singer	no:3
 singer	lovely:4
 father:15
@@ -732,8 +732,8 @@ yesterday:15
 yesterday	wish:3
 yesterday	more:7
 sang:15
-sang	been:4
 sang	since:4
+sang	been:4
 man:15
 man	ever:3
 man	oh:4
@@ -747,39 +747,39 @@ lot:16
 lot	has:3
 lot	girl:3
 if:16
-if	about:3
 if	or:3
-if	would:3
+if	about:3
 if	only:3
+if	would:3
 if	did:4
 live:16
+live	if:3
 live	jim:3
 live	reeves:3
 live	reeves	jim:3
-live	if:3
 live	long:4
 world:16
 world	child:3
 died:16
 gone:16
 gone	today:3
-gone	sad:3
+gone	long:3
 gone	high:3
+gone	sad:3
 gone	them:3
 gone	get:3
-gone	long:3
 gone	by:4
 mother:16
 mother	or:3
 mother	has:4
 nostalgia:16
 feel:16
-feel	child:3
 feel	today:3
+feel	child:3
 feel	nostalgic:5
 most:17
-most	early:3
 most	them:3
+most	early:3
 us:17
 us	early:3
 come:17
@@ -790,11 +790,11 @@ teenager	being:3
 heart:18
 heart	because:3
 record:18
-record	favorite:3
 record	over:3
+record	get:3
+record	favorite:3
 record	well:3
 record	jim:3
-record	get:3
 60:18
 60	being:3
 60	early:3
@@ -804,20 +804,20 @@ get	wish:3
 get	over:3
 more:18
 know:18
-know	or:3
 know	will:3
+know	or:3
 oh:18
 oh	sweet:3
 oh	because:4
 no:19
-no	or:3
 no	girl:3
+no	or:3
 no	today:4
 reeves:19
 reeves	favorite:3
 jim	reeves	favorite:3
-reeves	early:3
 reeves	over:3
+reeves	early:3
 reeves	would:3
 jim	reeves	would:3
 reeves	jim:17
@@ -831,37 +831,37 @@ being	would:3
 being	by:4
 being	go:5
 way:19
-way	today:3
 way	did:3
+way	today:3
 early:20
 early	long:3
 well:20
-well	jim:3
 well	over:3
+well	jim:3
 did:20
 did	such:3
 did	today:3
 lovely:20
 lovely	such:3
 girl:20
-girl	high:3
 girl	playing:3
+girl	high:3
 girl	long:4
 girl	long	year:3
 girl	year:5
 sweet:21
 got:21
-got	been:3
-got	long:3
-got	since:3
 got	year:3
+got	long:3
+got	been:3
+got	since:3
 got	ever:4
 over:21
-over	jim:3
-over	them:3
 over	been:3
 over	or:3
 over	will:3
+over	them:3
+over	jim:3
 over	playing:4
 70:21
 been:21
@@ -872,23 +872,23 @@ been	since:7
 since:22
 since	or:3
 since	such:3
-since	away:4
 since	has:4
+since	away:4
 since	ever:4
 high:22
 high	long:3
 high	year:3
 playing:22
 playing	or:3
-playing	them:4
 playing	will:4
+playing	them:4
 memory:23
 bring:23
 bring	them:3
 long:23
-long	ever:3
-long	has:3
 long	will:3
+long	has:3
+long	ever:3
 long	year:4
 sad:23
 sad	by:3
@@ -899,23 +899,23 @@ year:24
 year	or:3
 year	by:3
 jim:25
-jim	only:3
-jim	favorite:3
-jim	such:3
 jim	would:3
+jim	such:3
+jim	favorite:3
+jim	only:3
 away:25
 by:25
 by	or:5
 has:25
-has	only:3
-has	by:3
 has	would:3
-has	away:4
+has	by:3
+has	only:3
 has	or:4
+has	away:4
 today:25
 today	such:3
-today	by:3
 today	or:3
+today	by:3
 today	has:3
 today	wish:4
 about:25
@@ -935,8 +935,8 @@ such	will:4
 them:26
 them	will:3
 or:26
-or	only:3
 or	go:3
+or	only:3
 wish:26
 wish	or:3
 wish	go:6
